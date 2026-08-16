@@ -1,7 +1,7 @@
-## Hi there
+
 <div align="center"> <!-- Animated wave banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20MANSI%20BARNE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/> <!-- Typing animation --> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+love+cybersecurity+%F0%9F%94%92;I+love+open+source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" /> </a> <br/> <!-- Social badges -->
 
-<a href="https://https://www.linkedin.com/in/mansi-barne-6819603a5?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mansibarne                                                                                                                                                      21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/in/mansi-barne-6819603a5?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mansibarne21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div> <br/>
 👨‍💻 About Me
